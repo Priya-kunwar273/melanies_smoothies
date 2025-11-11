@@ -1,4 +1,3 @@
 # Requirement text
 snowflake-snowpark-python
 streamlit
-session
