@@ -1,4 +1,5 @@
 # Requirement text
 snowflake-snowpark-python
+session
 streamlit
 requests
